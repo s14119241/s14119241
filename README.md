@@ -1,8 +1,8 @@
 14119241 李旻
 
-	##先做兩個按鈕
-<button type='button'>Take the Tour</button>''
-<button type='button'>Book Tickets Now</button>''
+##先做兩個按鈕
+<button type='button'>Take the Tour</button>..
+<button type='button'>Book Tickets Now</button>..
 	字體大小<h4> <h4/>最小  <h1> <h1/>最大
 <h3>Book Today!</h3>
 	##換行 <p> </p>
